@@ -1,0 +1,42 @@
+(** @canonical Expression.Asaedef *)
+module Asaedef = Expression__Asaedef
+
+
+(** @canonical Expression.Asaeorder *)
+module Asaeorder = Expression__Asaeorder
+
+
+(** @canonical Expression.Derivative *)
+module Derivative = Expression__Derivative
+
+
+(** @canonical Expression.Expr *)
+module Expr = Expression__Expr
+
+
+(** @canonical Expression.Exprlist *)
+module Exprlist = Expression__Exprlist
+
+
+(** @canonical Expression.Fractions *)
+module Fractions = Expression__Fractions
+
+
+(** @canonical Expression.Integers *)
+module Integers = Expression__Integers
+
+
+(** @canonical Expression.Integrals *)
+module Integrals = Expression__Integrals
+
+
+(** @canonical Expression.Integraltable *)
+module Integraltable = Expression__Integraltable
+
+
+(** @canonical Expression.Rationalsimpl *)
+module Rationalsimpl = Expression__Rationalsimpl
+
+
+(** @canonical Expression.Simplification *)
+module Simplification = Expression__Simplification
